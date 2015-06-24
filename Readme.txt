@@ -1,0 +1,1 @@
+successful implementation of https://spring.io/guides/gs/serving-web-content/
